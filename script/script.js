@@ -1,3 +1,4 @@
 function doLogin() {
-  document.getElementById()
+  document.getElementById("username").value;
+  document.getElementById("password").value;
 }
