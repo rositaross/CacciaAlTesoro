@@ -1,3 +1,4 @@
+<script>
 function doLogin() {  
     var username = document.getElementById("username").value;  
     var password = document.getElementById("password").value;  
@@ -5,4 +6,4 @@ function doLogin() {
       alert("Username e password sono obbligatori");  
     }
   }
-
+</script>
