@@ -8,7 +8,7 @@ function doLogin() {
 
 else {
     fetch('https://www.cacciaapi.altervista.org/login.php/loginIpad' , {
-        method: 'GET' ,
+        method: 'POST' ,
         headers: {
             'Content-Type': 'application/json',
         },
